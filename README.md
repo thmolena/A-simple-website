@@ -1,5 +1,5 @@
-# Lovely-website
-This is just a lovely website.
+# Simple website
+This is just a simple website.
 
 # What's next?
-Create the website where users can customize their own lovely (and simple) websites.
+Create the website where users can customize their own simple websites.
